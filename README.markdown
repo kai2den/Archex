@@ -26,7 +26,7 @@ This project was developed as part of a lab assignment to demonstrate file proce
 ### For C Program (`archex.c`)
 - No additional libraries required (uses standard C libraries like `<stdio.h>`, `<stdlib.h>`, etc.).
 - Compiler: GCC (install with: `sudo apt-get install build-essential`).
-- Python 3 (required for `popen()` to call `process_data.py`).
+
 
 ### For Python Script (`process_data.py`)
 - **Standard Libraries**: `zlib`, `lzma` (included with Python).
@@ -36,7 +36,7 @@ This project was developed as part of a lab assignment to demonstrate file proce
 
 ### For Bash Script (`archex.sh`)
 - Bash environment (available on Linux).
-- Standard Unix utilities (e.g., `find`).
+
 
 ## Installation
 1. **Clone or Download the Project**:
