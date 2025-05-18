@@ -84,7 +84,7 @@ This project was developed as part of a lab assignment to demonstrate file proce
        ```
      - Download the latest `.tar.gz` file from PyPI (e.g., version 42.0.5):
        ```
-       wget https://files.pythonhosted.org/packages/3a/65/5b5a9b6b7e5b4aaee8828f7be4c2f10e8c7c52d5b5c4a16ea9f8e62b8e6b/cryptography-42.0.5.tar.gz
+       wget https://files.pythonhosted.org/packages/f6/47/92a8914716f2405f33f1814b97353e3cfa223cd94a77104075d42de3099e/cryptography-45.0.2.tar.gz
        ```
      - Extract the downloaded file:
        ```
